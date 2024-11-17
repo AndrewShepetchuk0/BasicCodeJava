@@ -21,7 +21,6 @@ public class a11 {
 		System.out.println("The slope intercept of the line is: " +  b);
 		System.out.println("The line equation is y = " + a + "x + " + b);
 		System.out.println("Here is the line equation with intiger format: y= "+a1+"x + " + b1);
-		//
 		System.out.println("Enter the x coordiante of point A: ");
 		double xa = input.nextDouble();
 		System.out.println("Enter the y coordinate of point A: ");
