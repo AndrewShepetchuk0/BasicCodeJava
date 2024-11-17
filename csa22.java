@@ -1,4 +1,3 @@
-package csa2;
 import java.util.*;
 
 //Andrew Shepetchuk
