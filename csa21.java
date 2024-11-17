@@ -1,7 +1,5 @@
 import java.util.*;
 
-//Andrew Shepetchuk
-
 public class csa21 {
 
 	public static void main(String[] args) {
