@@ -1,7 +1,5 @@
 import java.util.*;
 
-//Andrew Shepetchuk
-
 class Circle{
 	// Private instance variables
     private double radius;
