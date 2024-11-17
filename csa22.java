@@ -2,7 +2,6 @@ package csa2;
 import java.util.*;
 
 //Andrew Shepetchuk
-//221280615
 
 class Circle{
 	// Private instance variables
