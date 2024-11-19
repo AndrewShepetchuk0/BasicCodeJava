@@ -1,8 +1,6 @@
 package a3;
 import java.util.*;
 
-//Andrew Shepetchuk
-
 public class a32 {
 	public static void main(String[] args) {
         int BOARD_SIZE = 10; 
