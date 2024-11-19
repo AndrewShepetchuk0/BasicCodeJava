@@ -1,4 +1,3 @@
-package a3;
 import java.util.*;
 
 public class a33 {
